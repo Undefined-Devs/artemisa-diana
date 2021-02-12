@@ -11,7 +11,7 @@ Dejando de lado la introducción, pasemos a hablar de qué tratará este reto.
 
 ## Artemisa a Diana
 
-Los números romanos están representados por siete simbolos diferentes que son: `I`, `V`, `X`, `L`, `C`, `D` y `M`.
+Los números romanos están representados por siete símbolos diferentes que son: `I`, `V`, `X`, `L`, `C`, `D` y `M`.
 
 | Símbolo | Valor |
 | ------- | ----- |
@@ -23,11 +23,11 @@ Los números romanos están representados por siete simbolos diferentes que son:
 | D       | 500   |
 | M       | 1000  |
 
-Por ejemplo, `2`es escrito como `II` en numeros romanos, simplemente escribiendo dos unos, uno a un lado del otro. `12`es escrito como `XII`, lo que es `X + II`, etcétera.
+Por ejemplo, `2`es escrito como `II` en números romanos, simplemente escribiendo dos unos, uno a un lado del otro. `12`es escrito como `XII`, lo que es `X + II`, etcétera.
 
-Los números romanos regularmente se escriben del más grande al mas pequeño, de izquierda a derecha. Pero el número `4` por ejemplo, no es `IIII`. En lugar de eso, este número se representa como `IV`. Esto es porque sí el `1` esta antes del `5` esto quiere decir que se le resta al `5`dando como resultado `4`. Esto también aplica al `9`, el cual se escribe como `IX`.
+Los números romanos regularmente se escriben del más grande al más pequeño, de izquierda a derecha. Pero el número `4` por ejemplo, no es `IIII`. En lugar de eso, este número se representa como `IV`. Esto es porque sí el `1` esta antes del `5` esto quiere decir que se le resta al `5`dando como resultado `4`. Esto también aplica al `9`, el cual se escribe como `IX`.
 
-Te dejamos seis intancias en donde la resta es usada para representar un número:
+Te dejamos seis instancias en donde la resta es usada para representar un número:
 
 - `I` se puedo poner antes del `V` (5) y del `X` (10) para tener `4` y `9`.
 - `X` se puedo poner antes del `L` (50) y del `C` (100) para tener `40` y `90`.
@@ -87,6 +87,8 @@ Ten en cuenta que `num`estará delimitado por:
 ```
 
 ### 🚀 Empieza desde aquí
+
+Encuentra este reto en [LeetCode](https://leetcode.com/problems/integer-to-roman/), soluciónalo en el lenguaje de tu preferencia y en este mismo repositorio abre un issue para compartirnos tu solución.
 
 JavaScript
 
